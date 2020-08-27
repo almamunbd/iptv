@@ -134,6 +134,53 @@ https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 http://103.205.133.14/hls/sony8.m3u8
 
 #EXTM3U
-#EXTINF:-1,28.Zee Cafe
+#EXTINF:-1,28.Colors HD
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.14/hls/sony8.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,29.Colors Bangla HD
+#EXTVLCOPT:network-caching=1000
+http://103.205.133.14/hls/sony8.m3u8
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,30.Zee Cafe
 #EXTVLCOPT:network-caching=1000
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1,31.AndPrive
+#EXTVLCOPT:network-caching=1000
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,32.Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+#EXTINF:-1,33.Star World
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1,34.Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+
+#EXTM3U
+#EXTINF:-1,35.BBC Earth
+#EXTVLCOPT:network-caching=1000
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+
+#EXTM3U
+#EXTINF:-1,36.Discovery HD Bangla
+#EXTVLCOPT:network-caching=1000
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+
+#EXTM3U
+#EXTINF:-1,37.National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+
