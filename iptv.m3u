@@ -62,3 +62,53 @@ http://45.249.187.238:8081/hls/live1.m3u8
 #EXTINF:-1,NTV
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Banglavision HD
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Masranga HD
+#EXTVLCOPT:network-caching=1000
+http://45.249.187.238:8081/hls/live6.m3u8
+
+#EXTM3U
+#EXTINF:-1,ATN Bangla
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,MY Tv HD
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Gaanbangla HD
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Boishakhi Tv
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Duronto TV
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Zee Bangla HD
+#EXTVLCOPT:network-caching=1000
+http://45.249.187.238:8081/hls/new8.m3u8
+
+#EXTM3U
+#EXTINF:-1,Zee TV
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:-1,Zee Cinema
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
