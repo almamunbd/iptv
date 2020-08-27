@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:30,EkattorTV HD
+#EXTINF:-1,EkattorTV HD
 #EXTVLCOPT:network-caching=1000
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:30,GTV HD
+#EXTINF:-1,GTV HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live5.m3u8
 
 #EXTM3U
-#EXTINF:30,DBC News HD
+#EXTINF:-1,DBC News HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
 #EXTM3U
-#EXTINF:30,News24 HD
+#EXTINF:-1,News24 HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live4.m3u8
 
 #EXTM3U
-#EXTINF:30,Deepto TV HD
+#EXTINF:-1,Deepto TV HD
 #EXTVLCOPT:network-caching=1000
 http://103.205.133.19/hls/deeptotv.m3u8
 
 #EXTM3U
-#EXTINF:30,Channel 9 HD
+#EXTINF:-1,Channel 9 HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live3.m3u8
 
 #EXTM3U
-#EXTINF:30,Channel24
+#EXTINF:-1,Channel24
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
 #EXTM3U
-#EXTINF:30,Independant TV
+#EXTINF:-1,Independant TV
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/hdmi4.m3u8
