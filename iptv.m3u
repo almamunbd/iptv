@@ -1,139 +1,139 @@
 #EXTM3U
-#EXTINF:-1,EkattorTV HD, 1
+#EXTINF:-1,1.EkattorTV HD
 #EXTVLCOPT:network-caching=1000
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,GTV HD, 2
+#EXTINF:-1,2.GTV HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live5.m3u8
 
 #EXTM3U
-#EXTINF:-1,DBC News HD
+#EXTINF:-1,3.DBC News HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,News24 HD
+#EXTINF:-1,4.News24 HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live4.m3u8
 
 #EXTM3U
-#EXTINF:-1,Deepto TV HD
+#EXTINF:-1,5.Deepto TV HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Channel 9 HD
+#EXTINF:-1,6.Channel 9 HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live3.m3u8
 
 #EXTM3U
-#EXTINF:-1,Channel24
+#EXTINF:-1,7.Channel24
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Independant TV
+#EXTINF:-1,8.Independant TV
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/hdmi4.m3u8
 
 #EXTM3U
-#EXTINF:-1,JAMUNA TV
+#EXTINF:-1,9.JAMUNA TV
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live2.m3u8
 
 #EXTM3U
-#EXTINF:-1,Channel I HD
+#EXTINF:-1,10. Channel I HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live7.m3u8
 
 #EXTM3U
-#EXTINF:-1,SATV HD
+#EXTINF:-1,11. SATV HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1,RTV HD
+#EXTINF:-1,12.RTV HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live1.m3u8
 
 #EXTM3U
-#EXTINF:-1,NTV
+#EXTINF:-1,13.NTV
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Banglavision HD
+#EXTINF:-1,14.Banglavision HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Masranga HD
+#EXTINF:-1,15.Masranga HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/live6.m3u8
 
 #EXTM3U
-#EXTINF:-1,ATN Bangla
+#EXTINF:-1,16.ATN Bangla
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,MY Tv HD
+#EXTINF:-1,17.MY Tv HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Gaanbangla HD
+#EXTINF:-1,18.Gaanbangla HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Boishakhi Tv
+#EXTINF:-1,19.Boishakhi Tv
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Duronto TV
+#EXTINF:-1,20.Duronto TV
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="Indian Bangla",Star Jalsha HD
+#EXTINF:-1,21.Star Jalsha HD
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1,22.Zee Bangla HD
 #EXTVLCOPT:network-caching=1000
 http://45.249.187.238:8081/hls/new8.m3u8
 
 #EXTM3U
-#EXTINF:-1,Zee TV
+#EXTINF:-1,23.Zee TV
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1,24.Zee Cinema
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Zee Action
+#EXTINF:-1,25.Zee Action
 #EXTVLCOPT:network-caching=1000
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1,26.Zee Bollywood
 #EXTVLCOPT:network-caching=1000
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTM3U
-#EXTINF:-1,Sony Aath
+#EXTINF:-1,27.Sony Aath
 #EXTVLCOPT:network-caching=1000
 http://103.205.133.14/hls/sony8.m3u8
 
 #EXTM3U
-#EXTINF:-1,Zee Cafe
+#EXTINF:-1,28.Zee Cafe
 #EXTVLCOPT:network-caching=1000
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
