@@ -2,3 +2,13 @@
 #EXTINF:30,EkattorTV HD
 #EXTVLCOPT:network-caching=1000
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+
+#EXTM3U
+#EXTINF:30,GTV HD
+#EXTVLCOPT:network-caching=1000
+http://45.249.187.238:8081/hls/live5.m3u8
+
+#EXTM3U
+#EXTINF:30,DBC News HD
+#EXTVLCOPT:network-caching=1000
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
