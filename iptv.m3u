@@ -212,3 +212,12 @@ https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
+#EXTM3U
+#EXTINF:-1,44.Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+
+#EXTM3U
+#EXTINF:-1,45.Jalsha Movies HD
+#EXTVLCOPT:network-caching=1000
+http://172.17.50.112/live/antbd1007/index.m3u8
