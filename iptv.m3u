@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1,1.EkattorTV HD
 #EXTVLCOPT:network-caching=1000
@@ -21,7 +22,7 @@ http://45.249.187.238:8081/hls/live4.m3u8
 #EXTM3U
 #EXTINF:-1,5.Deepto TV HD
 #EXTVLCOPT:network-caching=1000
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
 #EXTM3U
 #EXTINF:-1,6.Channel 9 HD
