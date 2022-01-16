@@ -26,3 +26,35 @@ http://58.65.171.202:8000/play/4/index.m3u8
 #EXTINF:-6,Nick Music
 #EXTVLCOPT:network-caching=1000
 http://58.65.171.202:8000/play/5/index.m3u8
+
+#EXTINF:-1 tvg-id="INDIEplex.us" tvg-name="IND: cineplex HD" tvg-logo="" group-title="India",IND: cineplex HD
+http://jjkdomain123.one:80/Charlie/Charlie/1093104
+
+http://jjkdomain123.one:80/Charlie/Charlie/1093101
+#EXTINF:-1 tvg-id="" tvg-name="IND-Hindi: Sony TV" tvg-logo="http://openboxv8s.com/india/set_in.png" group-title="India",IND-Hindi: Sony TV
+
+http://jjkdomain123.one:80/Charlie/Charlie/1093100
+#EXTINF:-1 tvg-id="" tvg-name="IND-Hindi: Zee Cinema HD" tvg-logo="http://openboxv8s.com/india/zee-cinema-in.png" group-title="India",IND-Hindi: Zee Cinema HD
+
+#EXTINF:-1 tvg-id="AndPictures.in" tvg-name="IND-Hindi: & Picture HD" tvg-logo="http://openboxv8s.com/india/and_pictures_in.png" group-title="India",IND-Hindi: & Picture HD
+http://jjkdomain123.one:80/Charlie/Charlie/1093093
+
+http://jjkdomain123.one:80/Charlie/Charlie/1093087
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="IND-Bangla: Colors Bangla HD" tvg-logo="" group-title="India",IND-Bangla: Colors Bangla HD
+
+#EXTINF:-1 tvg-id="" tvg-name="IND-Hindi: Sony Max HD" tvg-logo="http://openboxv8s.com/india/sony_max_in.png" group-title="India",IND-Hindi: Sony Max HD
+http://jjkdomain123.one:80/Charlie/Charlie/1093081
+
+#EXTINF:-1 tvg-id="" tvg-name="Ind-Kids: Nick" tvg-logo="" group-title="India",Ind-Kids: Nick
+http://jjkdomain123.one:80/Charlie/Charlie/1092804
+
+#EXTINF:-1 tvg-id="" tvg-name="Ind-Kids: Disney tv" tvg-logo="" group-title="India",Ind-Kids: Disney tv
+http://jjkdomain123.one:80/Charlie/Charlie/1092806
+
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="Ind: Nat Geo HIndi" tvg-logo="" group-title="India",Ind: Nat Geo HIndi
+http://jjkdomain123.one:80/Charlie/Charlie/1092781
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="Ind-Loc: Nat Geo Wild Hindi" tvg-logo="" group-title="India",Ind-Loc: Nat Geo Wild Hindi
+http://jjkdomain123.one:80/Charlie/Charlie/1092780
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Ind-doc: Discovery HD Hindi" tvg-logo="" group-title="India",Ind-doc: Discovery HD Hindi
+http://jjkdomain123.one:80/Charlie/Charlie/1092779
+
